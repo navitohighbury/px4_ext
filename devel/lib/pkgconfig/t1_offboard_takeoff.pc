@@ -1,0 +1,8 @@
+prefix=/home/cjj/cjj_workspace/px4_ext_ct/devel
+
+Name: t1_offboard_takeoff
+Description: Description of t1_offboard_takeoff
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/cjj/cjj_workspace/px4_ext_ct/install
+
+Name: pose_control_fly
+Description: Description of pose_control_fly
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,2 @@
+pose_control_fly:square_fly:t1_offboard_takeoff:test_success
+-DCATKIN_DEVEL_PREFIX=/home/cjj/cjj_workspace/px4_ext_ct/devel -DCMAKE_INSTALL_PREFIX=/home/cjj/cjj_workspace/px4_ext_ct/install -G Unix Makefiles

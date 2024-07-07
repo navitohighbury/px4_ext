@@ -1,0 +1,8 @@
+prefix=/home/cjj/cjj_workspace/px4_ext_ct/install
+
+Name: test_success
+Description: Description of test_success
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
