@@ -79,7 +79,7 @@ int main(int argc, char **argv)
     geometry_msgs::PoseStamped pose;    
     pose.pose.position.x = 0;
     pose.pose.position.y = 0;
-    pose.pose.position.z = 2;
+    pose.pose.position.z = 5;
     //pose.pose.orientation.x=2;
     //pose.pose.orientation.y=2;
     //pose.pose.orientation.z=2;
