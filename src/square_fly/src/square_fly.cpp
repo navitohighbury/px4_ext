@@ -78,7 +78,7 @@ int main(int argc, char **argv)
     //先实例化一个geometry_msgs::PoseStamped类型的对象，并对其赋值，最后将其发布出去
     geometry_msgs::PoseStamped pose;    
     pose.pose.position.x = 2;
-    pose.pose.position.y = 5;
+    pose.pose.position.y = 6;
     pose.pose.position.z = 6;
     //pose.pose.orientation.x=2;
     //pose.pose.orientation.y=2;
